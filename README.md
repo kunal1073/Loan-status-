@@ -1,4 +1,4 @@
-Loan-status
+#Loan-status#
 
 LendingClub Loan Risk Prediction & Offline RL Decisioning
 In this project, I present a complete pipeline for automated loan approval using LendingClub’s publicly available loan dataset. I combine deep learning for loan default prediction with an offline reinforcement learning agent to maximize expected profit. The workflow is fully reproducible and designed for easy deployment on platforms like Kaggle.
